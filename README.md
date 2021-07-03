@@ -6,5 +6,7 @@ In this Airbnb Kaggle challenge, we had to build ML prediction pipeline predicti
 ## Implementation
 Applied feature engineering techniques such as oversampling methods, polynomial feature transformation. Trained classifiers such as xgboost, adaboost; along with ensembling (stacking). Used Nested cross validation and Bayesian optimization for hyper-parameter tuning.
 
+Checkout the [Project Report](Project_Report.pdf) for further details.
+
 ## Collaborators
 Karthik Hegde, Jishnu V Kumar, Aman Kumar
