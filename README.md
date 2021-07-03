@@ -8,7 +8,8 @@ Applied feature engineering techniques such as oversampling methods, polynomial 
 
 Checkout the [Project Report](Project_Report.pdf) for further details.
 
-Checkout [Leaderboard](https://www.kaggle.com/c/airbnb-new-user/leaderboard)
+## Competition Results
+Fourth place on the private leaderboard. Checkout team SotA on [Leaderboard](https://www.kaggle.com/c/airbnb-new-user/leaderboard)
 
 ## Collaborators
 Karthik Hegde, Jishnu V Kumar, Aman Kumar
